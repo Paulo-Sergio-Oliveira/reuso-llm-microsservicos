@@ -25,7 +25,7 @@ Repositório de artefatos, prompts, respostas coletadas e planilhas de análise 
 | Responsável | Modelo | Interface de Chat | Pasta de Destino |
 | :--- | :--- | :--- | :--- |
 | Victor Veras Martins | Claude Opus 5.5 (Anthropic) | claude.ai | `03_respostas_llms/claude_opus_5_5/` |
-| Enzo Hariel Ferreira Gaspar | Gemini 4 Argon (Google) | Gemini | `03_respostas_llms/gemini_4_neon/` |
+| Enzo Hariel Ferreira Gaspar | Gemini 4 Neon (Google) | Gemini | `03_respostas_llms/gemini_4_neon/` |
 | Natan de Sousa Lucena | GPT-6 Astra (OpenAI) | ChatGPT | `03_respostas_llms/gpt_6_astra/` |
 
 ### Regras obrigatórias de execução
